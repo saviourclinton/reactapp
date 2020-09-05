@@ -1,4 +1,23 @@
 .App {
-  font-family: sans-serif;
-  text-align: center;
+      text-align: center;
+      display: flex;
+      align-items: center;
+flex-direction: column;
+justify-content: start;
+min-height: 100vh;
+color:aliceblue;
+background-color:grey
+      
+}
+
+.button{
+padding: 10px 25px;
+margin:20px;
+width:300px;
+background-color: #ffffff;
+font-size:20px;
+color:#007bff;
+text-transform:uppercase;
+border-radius:15px;
+
 }
